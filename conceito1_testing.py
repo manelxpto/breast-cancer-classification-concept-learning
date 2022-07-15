@@ -2,7 +2,7 @@
 """
 Created on Mon May 23 13:47:09 2022
 
-@author: Manuel
+@author: Érica Gomes e Manuel Fortunato
 """
 
 #Pytorch imports
