@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 11 14:27:14 2022
 
-@author: Maria e Manuel
+@author: Maria Eduarda e Manuel Fortunato
 """
 
 
