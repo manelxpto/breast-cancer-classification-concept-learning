@@ -2,7 +2,7 @@
 """
 Created on Thu May 12 10:27:52 2022
 
-@author: efgom
+@author: Érica Gomes e Manuel Fortunato
 """
 
 # Imports
