@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 18 15:40:00 2022
 
-@author: Maria
+@author: Maria Eduarda
 """
 
 # Imports
